@@ -24,4 +24,4 @@ About units
 
 OxyPlot uses device independent units to specify line thicknesses etc.
 
-In OxyPlot, a device indepent unit is related to a 96 dpi display. On such a display, 1 unit should be rendered as 1 pixel.
+In OxyPlot, a device indepent unit is related to a 96 dpi display. On such a display, 1 unit should be rendered as 1 pixel.  Refer to https://msdn.microsoft.com/en-us/library/windows/desktop/ff684173%28v=vs.85%29.aspx for Microsoft specific explanation.
